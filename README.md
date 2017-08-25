@@ -1,2 +1,1 @@
-# resume
-resume in markdown
+[see resume.d](resume.md)

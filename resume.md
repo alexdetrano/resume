@@ -39,7 +39,7 @@ smart-card using 15 power traces
 * First attack targeted the loading of the masks from memory, and recovered the mask with 91% success
 * Second attack identified collisions between two AES S-Boxes and recovered the difference between bytes of
 the key, reducing brute-force attack complexity from 2128 to 28
-* Both attacks coded in MATLAB and were accepted to the [DPA Contest V4]().
+* Both attacks coded in MATLAB and were accepted to the [DPA Contest V4](http://www.dpacontest.org/home/index.html).
 
 # Publications
 * [Exploiting small leakages in masks to turn a second-order attack into a first-order attack - HASP '15

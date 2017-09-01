@@ -32,6 +32,19 @@ Portland, OR 97209
 * Led website team in redesign of AvePoint.com, providing data-driven analysis, multivariate testing, and subsequent performance tracking
 * Strategically managed pay-per-click campaigns to improve campaign performance (improved click-through-rate by 55%
 
+# Projects
+## Attacking a Masked Software Implementation of the Advanced Encryption Standard (AES)
+* Recovered the secret encryption key from a masked implementation of AES-256 on an Atmel ATMega-163
+smart-card using 15 power traces
+* First attack targeted the loading of the masks from memory, and recovered the mask with 91% success
+* Second attack identified collisions between two AES S-Boxes and recovered the difference between bytes of
+the key, reducing brute-force attack complexity from 2128 to 28
+* Both attacks coded in MATLAB and were accepted to the [DPA Contest V4]().
+
+# Publications
+* [Exploiting small leakages in masks to turn a second-order attack into a first-order attack - HASP '15
+](http://dl.acm.org/citation.cfm?id=2768573)
+
 # Education
 ## New York University
 Master of Science in Electrical Engineering (2014) 

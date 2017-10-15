@@ -1,2 +1,2 @@
-[latex/detrano_resume.pdf](PDF resume)
-[resume.md](markdown resume)
+[pdf resume](latex/detrano_resume.pdf)  
+[markdown resume](resume.md)

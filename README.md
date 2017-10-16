@@ -1,1 +1,2 @@
-To view resume, please see [resume.md](resume.md)
+[pdf resume](latex/detrano_resume.pdf)  
+[markdown resume](resume.md)
